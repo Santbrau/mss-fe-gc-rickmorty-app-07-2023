@@ -23,10 +23,10 @@ export class HomeComponent {
   }
 
   login() {
-    // Lógica de inicio de sesión
+    // (supuesta) Lógica de inicio de sesión
   }
 
   register() {
-    // Lógica de registro
+    // (supuesta) Lógica de registro
   }
 }
